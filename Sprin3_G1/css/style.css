@@ -1,0 +1,82 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+
+
+#banner{
+	width :1300px; 
+	height:  auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+#principal{
+	width: 1300px;
+	height: 1800px;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+
+
+
+/*ETIQUETAS*/
+
+
+body{
+background-image: url(https://blog.aulaformativa.com/wp-content/uploads/2016/06/fondos-de-pantalla-para-programadores-Code-1.jpg);
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: #BFA090 ;
+margin-left: 10px;
+font-size: 60px; //TAMANÑO FUENTE
+text-align: center; 
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: #D26429 ;
+margin-left: 10px;
+font-size: 60px;
+text-align: center; 
+}
+
+h3{
+font-family: 'Shadows Into Light', cursive;;
+color: white;
+font-size: 30px;
+text-align: center; 
+}
+
+h4{
+font-family: 'Indie Flower', cursive;
+color: #AF9A8E ;
+margin-left: 8px;
+font-size: 40px;
+text-align: center; 
+}
+
+li{
+font-family: 'Indie Flower', cursive;
+color: #AF9A8E ;
+margin-left: 8px;
+font-size: 40px;
+text-align: left-side; 
+}
+
+p{
+font-family: 'Indie Flower', cursive;
+color: #F5F2B9  ;
+margin-left: 8px;
+font-size: 28px;
+text-align: left-side; 
+}
