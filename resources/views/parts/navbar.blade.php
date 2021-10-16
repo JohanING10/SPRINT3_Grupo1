@@ -1,6 +1,6 @@
 <!-- Header
 ============================================= -->
-<header id="header" class="full-header transparent-header dark" data-sticky-class="not-dark" data-responsive-class="not-dark" data-sticky-offset="full" data-logo-height="80" data-menu-padding="29">
+<header id="header" class="full-header transparent-header dark" data-sticky-class="not-dark" data-responsive-class="not-dark" data-sticky-offset="full" data-logo-height="80" data-menu-padding="10">
     <div id="header-wrap">
         <div class="container">
             <div class="header-row">
