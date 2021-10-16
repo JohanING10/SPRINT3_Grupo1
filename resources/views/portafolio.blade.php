@@ -16,18 +16,17 @@
             <div class="section bg-transparent mb-0">
                 <div class="container">
                     <div class="heading-block center border-0" data-heading="O">
-                        <h3 class="nott ls0">Our Works</h3>
+                        <h3 class="nott ls0">Nuestros Productos y Trabajos</h3>
                     </div>
                     <div class="grid-filter-wrap">
                         <!-- Grid Filter
                         ============================================= -->
                         <ul class="grid-filter style-2 mx-auto" data-container="#portfolio">
-                            <li class="activeFilter"><a href="#" data-filter="*">Show All</a></li>
-                            <li><a href="#" data-filter=".pf-icons">Icons</a></li>
-                            <li><a href="#" data-filter=".pf-illustrations">Illustrations</a></li>
-                            <li><a href="#" data-filter=".pf-uielements">UI Elements</a></li>
-                            <li><a href="#" data-filter=".pf-media">Media</a></li>
-                            <li><a href="#" data-filter=".pf-graphics">Graphics</a></li>
+                            <li class="activeFilter"><a href="#" data-filter="*">Todas</a></li>
+                            <li><a href="#" data-filter=".pf-icons">Mantenimiento</a></li>
+                            <li><a href="#" data-filter=".pf-illustrations">Admin Platafprmas Web</a></li>
+                            <li><a href="#" data-filter=".pf-mant">Manteminiento</a></li>
+                            <li><a href="#" data-filter=".pf-servicio">Soporte 24/7</a></li>
                         </ul><!-- .grid-filter end -->
                     </div>
                 </div>
@@ -38,15 +37,15 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src={{ asset("../Images/portfolio/1.jpg")}} alt="Open Imagination">
+                                    <img src={{ asset("../Images/portfolio/mantenimientoEquipos.jpg")}} alt="Open Imagination">
                                 </a>
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark flex-column" data-hover-animate="fadeIn">
                                         <!-- Decription: Start -->
                                         <div class="portfolio-desc pt-0 center" data-hover-animate="fadeInDownSmall"
                                             data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                            <h3><a href="portfolio-single.html">Open Imagination</a></h3>
-                                            <span><a href="#">Media</a>, <a href="#">Icons</a></span>
+                                            <h3><a href="portfolio-single.html">Mantenimientos</a></h3>
+                                            <span><a href="#">Equipos</a>, <br> <a href="#">Servidores</a></span>
                                         </div>
                                     </div>
                                     <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -58,15 +57,15 @@
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src={{ asset("../Images/portfolio/2.jpg")}} alt="Open Imagination">
+                                    <img src={{ asset("../Images/portfolio/adminPlataformas.jpg")}} alt="Open Imagination">
                                 </a>
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark flex-column" data-hover-animate="fadeIn">
                                         <!-- Decription: Start -->
                                         <div class="portfolio-desc pt-0 center" data-hover-animate="fadeInDownSmall"
                                             data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                            <h3><a href="#">Locked Steel Gate</a></h3>
-                                            <span><a href="#">Illustrations</a></span>
+                                            <h3><a href="#">Admin Plataformas</a></h3>
+                                            <span><a href="#">Web</a>, <br> <a href="#">Celulares</a></span>
                                         </div>
                                     </div>
                                     <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -75,19 +74,19 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-uielements">
+                    <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-mant">
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <a href="#">
-                                    <img src={{ asset("../Images/portfolio/3.jpg")}} alt="Open Imagination">
+                                    <img src={{ asset("../Images/portfolio/soporteSitio.jpg")}} alt="Open Imagination">
                                 </a>
                                 <div class="bg-overlay">
                                     <div class="bg-overlay-content dark flex-column" data-hover-animate="fadeIn">
                                         <!-- Decription: Start -->
                                         <div class="portfolio-desc pt-0 center" data-hover-animate="fadeInDownSmall"
                                             data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                            <h3><a href="#">Mac Sunglasses</a></h3>
-                                            <span><a href="#">Graphics</a>, <a href="#">UI Elements</a></span>
+                                            <h3><a href="#">Manteminiento</a></h3>
+                                            <span><a href="#">En Sitio</a></span>
                                         </div>
                                     </div>
                                     <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -96,18 +95,17 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-icons pf-illustrations">
+                    <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-servicio">
                         <div class="grid-inner">
                             <div class="portfolio-image">
                                 <div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
                                     <div class="flexslider">
                                         <div class="slider-wrap">
-                                            <div class="slide"><a href="#"><img
-                                                        src={{ asset("../Images/portfolio/4.jpg")}}
-                                                        alt="Open Imagination"></a></div>
-                                            <div class="slide"><a href="#"><img
-                                                        src={{ asset("../Images/portfolio/4-2.jpg")}}
-                                                        alt="Open Imagination"></a></div>
+                                            <div class="slide">
+                                                <a href="#">
+                                                    <img src={{ asset("../Images/portfolio/soporteSitio1.jpg")}} alt="Open Imagination">
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -116,8 +114,8 @@
                                         <!-- Decription: Start -->
                                         <div class="portfolio-desc pt-0 center" data-hover-animate="fadeInDownSmall"
                                             data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                            <h3><a href="#">Morning Dew</a></h3>
-                                            <span><a href="#">Icons</a>, <a href="#">Illustrations</a></span>
+                                            <h3><a href="#">Servicio de soporte</a></h3>
+                                            <span><a href="#">24/7</a></span>
                                         </div>
                                     </div>
                                     <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
@@ -137,7 +135,7 @@
                         <div class="col-lg-6 p-0">
                             <!-- Youtube Video Link
                             ============================================= -->
-                            <a href="https://www.youtube.com/watch?v=NS0txu_Kzl8" data-lightbox="iframe">
+                            <a href="https://www.youtube.com/watch?v=_YwKSdtWr0Q" data-lightbox="iframe">
                                 <img src={{ asset("../Images/sections/video.jpg")}} alt="Youtube Video"
                                     style="box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.15); border-radius: 6px;">
                                 <i class="icon-play"
@@ -149,15 +147,12 @@
                         <div class="col-lg-6" style="padding-left: 60px;">
                             <div class="heading-block topmargin-sm bottommargin-sm border-0">
                                 <h3 class="nott"
-                                    style="font-size: 46px; font-weight: 700; letter-spacing: -2px; line-height: 58px">A
-                                    small Video from Our Customers.</h3>
+                                    style="font-size: 46px; font-weight: 700; letter-spacing: -2px; line-height: 58px">
+                                    Un pequeño video de las mejores paginas web.</h3>
                             </div>
-                            <p class="font-weight-normal">Interactively facilitate.<br>Tactical systems with compelling
-                                materials. Objectively re-engineer diverse relationships long-term impact methodologies.</p>
-                            <h5 class="mb-0 font-weight-semibold">&middot; SemiColonWeb - Author, Themeforest Market. <a
-                                    href="#"><img src={{ asset("../Images/tf-logo.png")}} height="18" alt="Image"
-                                        style="margin-left: 4px"></a></h5>
-                            <a href="#" class="button-link bottommargin">Read More</a>
+                            <p class="font-weight-normal">Realizamos colaborativos para su elaboración.<br>
+                                Ayudamos en el fronten y en la base de datos.</p>
+                            <a href="#" class="button-link bottommargin">Lee Más</a>
                         </div>
                     </div>
                 </div>

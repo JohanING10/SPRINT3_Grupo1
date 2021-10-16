@@ -24,8 +24,8 @@
                     <div class="col-lg-6 col-padding">
                         <div>
                             <div style="position: relative;">
-                                <div class="heading-block border-0" data-heading="A">
-                                    <h3 class="nott ls0">About Us</h3>
+                                <div class="heading-block border-0" data-heading="SF">
+                                    <h3 class="nott ls0">Politicas Corporativas</h3>
                                 </div>
                             </div>
 
@@ -38,9 +38,9 @@
                                             <a href="#"><i class="icon-et-globe"></i></a>
                                         </div>
                                         <div class="fbox-content">
-                                            <h3>All over the World</h3>
-                                            <p>Powerful Layout with Responsive functionality that can be adapted to any
-                                                screen size. Resize browser to view.</p>
+                                            <h3>Misión</h3>
+                                            <p class="text-justify">proveer servicios integrales de servicios tecnológicos que puede abordar desafíos que van desde los problemas más simples y específicos hasta los más grandes y complejos, con una visión unificada y alineada con las estrategias de negocio de nuestros clientes, entregándoles de manera consistente soluciones, servicios y productos de calidad.</p>
+                                            <p class="text-justify">Tenemos una vocación permanente por entregar servicios de excelencia. Nuestro quehacer está basado en procesos de mejora continua que propician el uso de las mejores soluciones tecnológicas para hacer frente a los desafíos y necesidades de quienes nos han elegido su socio estratégico para la implementación de soluciones.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -50,9 +50,9 @@
                                             <a href="#"><i class="icon-et-gears"></i></a>
                                         </div>
                                         <div class="fbox-content">
-                                            <h3>Fully Customisable</h3>
-                                            <p>Powerful Layout with Responsive functionality that can be adapted to any
-                                                screen size. Resize browser to view.</p>
+                                            <h3>Visión</h3>
+                                            <p class="text-justify">ser la empresa integradora de soluciones informáticas con capacidad técnica y financiera para atender nuestros clientes
+                                                combinando tecnologías que van a la vanguardia y con los más confiables servicios.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -62,9 +62,10 @@
                                             <a href="#"><i class="icon-et-document"></i></a>
                                         </div>
                                         <div class="fbox-content">
-                                            <h3>Helpfull Documentation</h3>
-                                            <p>Powerful Layout with Responsive functionality that can be adapted to any
-                                                screen size. Resize browser to view.</p>
+                                            <h3>Objetivos Corporativos</h3>
+                                            <p class="text-justify">Construir escenarios donde podemos interactuar con nuestros clientes</p>
+                                            <p class="text-justify">Encontrar las soluciones óptimas para las situaciones que sus compañías atraviesan en el día a día</p>
+                                            <p class="text-justify">Apoyar y asesorar a nuestros Clientes en la selección más rentable para su inversión en Tecnología y Computación</p>
                                         </div>
                                     </div>
                                 </div>

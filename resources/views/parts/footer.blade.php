@@ -15,51 +15,35 @@
                     <div class="col-md-9">
 
                         <div class="row col-mb-30">
-                            <div class="col-sm-6 col-lg-3">
-                                <div class="widget widget_links widget-li-noicon clearfix">
-                                    <h4>Hire</h4>
-                                    <ul>
-                                        <li><a href="#">Documentation</a></li>
-                                        <li><a href="#">Feedback</a></li>
-                                        <li><a href="#">Plugins</a></li>
-                                        <li><a href="#">Support Forums</a></li>
-                                        <li><a href="#">Themes</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-lg-3">
+                            <div class="col-sm-6 col-lg-4">
                                 <div class="widget widget_links widget-li-noicon clearfix">
                                     <h4>Community</h4>
                                     <ul>
-                                        <li><a href="#">Documentation</a></li>
-                                        <li><a href="#">Feedback</a></li>
-                                        <li><a href="#">Plugins</a></li>
-                                        <li><a href="#">Support Forums</a></li>
-                                        <li><a href="#">Themes</a></li>
+                                        <li><a href="#">Documentación</a></li>
+                                        <li><a href="#">Retroalimentación</a></li>
+                                        <li><a href="#">Temas</a></li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-3">
+                            <div class="col-sm-6 col-lg-4">
                                 <div class="widget widget_links widget-li-noicon clearfix">
                                     <h4>Learn</h4>
                                     <ul>
-                                        <li><a href="#">Documentation</a></li>
-                                        <li><a href="#">Feedback</a></li>
-                                        <li><a href="#">Plugins</a></li>
-                                        <li><a href="#">Support Forums</a></li>
-                                        <li><a href="#">Themes</a></li>
+                                        <li><a href="#">Documentación</a></li>
+                                        <li><a href="#">Soporte</a></li>
+                                        <li><a href="#">Forum</a></li>
+                                        <li><a href="#">Temas</a></li>
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-lg-3">
+                            <div class="col-sm-6 col-lg-4">
                                 <div class="widget widget_links widget-li-noicon clearfix">
-                                    <h4>About</h4>
+                                    <h4>Sobre Nosotros</h4>
                                     <ul>
-                                        <li><a href="#">Documentation</a></li>
-                                        <li><a href="#">Feedback</a></li>
-                                        <li><a href="#">Plugins</a></li>
-                                        <li><a href="#">Support Forums</a></li>
-                                        <li><a href="#">Themes</a></li>
+                                        <li><a href="#">Documentación</a></li>
+                                        <li><a href="#">Soporte</a></li>
+                                        <li><a href="#">Telefonos</a></li>
+                                        <li><a href="#">Correo</a></li>
                                     </ul>
                                 </div>
                             </div>
