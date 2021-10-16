@@ -9,7 +9,7 @@
 
                 <div class="row col-mb-50">
                     <div class="col-md-3">
-                        <img src="{{ asset("../Images/logo@2x.png")}} alt="Image" height="100" style="margin-top: -30px">
+                        <img src={{ asset("/Images/LOGO-SF.png")}} alt="Image" height="100" style="margin-top: -30px">
                     </div>
 
                     <div class="col-md-9">

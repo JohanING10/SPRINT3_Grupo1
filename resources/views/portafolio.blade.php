@@ -126,35 +126,6 @@
                         </div>
                     </article>
 
-                    <article class="portfolio-item col-12 col-sm-6 col-md-4 col-lg-3 pf-graphics pf-illustrations">
-                        <div class="grid-inner">
-                            <div class="portfolio-image">
-                                <div class="fslider" data-arrows="false">
-                                    <div class="flexslider">
-                                        <div class="slider-wrap">
-                                            <div class="slide"><a href="#"><img
-                                                        src={{ asset("../Images/portfolio/5.jpg")}}
-                                                        alt="Open Imagination"></a></div>
-                                            <div class="slide"><a href="#"><img
-                                                        src={{ asset("../Images/portfolio/5-2.jpg")}}
-                                                        alt="Open Imagination"></a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="bg-overlay">
-                                    <div class="bg-overlay-content dark flex-column" data-hover-animate="fadeIn">
-                                        <!-- Decription: Start -->
-                                        <div class="portfolio-desc pt-0 center" data-hover-animate="fadeInDownSmall"
-                                            data-hover-animate-out="fadeOutUpSmall" data-hover-speed="350">
-                                            <h3><a href="#">Shake It!</a></h3>
-                                            <span><a href="#">Illustrations</a>, <a href="#">Graphics</a></span>
-                                        </div>
-                                    </div>
-                                    <div class="bg-overlay-bg dark" data-hover-animate="fadeIn"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
                 </div><!-- #portfolio end -->
             </div>
 
