@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', 'ScriptF')
+@section('title', config('app.name').'| Portafolio')
 
 @push('styles')
 

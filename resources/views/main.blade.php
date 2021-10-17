@@ -36,6 +36,20 @@
     
     <!-- push styles -->
     @stack('styles')
+	<style>
+		.form-group > label.error {
+			display: block !important;
+			text-transform: none;
+		}
+		
+		.form-group input.valid ~ label.error,
+		.form-group input[type="text"] ~ label.error,
+		.form-group input[type="email"] ~ label.error,
+		.form-group input[type="number"] ~ label.error,
+		.form-group select ~ label.error,
+		.form-group textarea ~ label.error { display: none !important; }
+		</style>
+
 </head>
 <body class="stretched">
 	<!-- Document Wrapper

@@ -1,6 +1,6 @@
 <!-- Header
 ============================================= -->
-<header id="header" class="full-header transparent-header dark" data-sticky-class="not-dark" data-responsive-class="not-dark" data-sticky-offset="full" data-logo-height="80" data-menu-padding="10">
+<header id="header" class="full-header transparent-header" data-sticky-class="not-dark">
     <div id="header-wrap">
         <div class="container">
             <div class="header-row">
@@ -30,16 +30,17 @@
 
                     <ul class="menu-container">
                         <li class="menu-item active"><a class="menu-link" 
-                            href="{{ route('home') }}"><div>Home</div></a>
+                            href={{ route('home') }}><div>Home</div></a>
                         </li>
                         <li class="menu-item"><a class="menu-link" 
-                            href="{{ route('aboutUs') }}"><div>Acerca de Nosotros</div></a>
+                            href={{ route('aboutUs') }}><div>Acerca de Nosotros</div></a>
                         </li>
                         <li class="menu-item"><a class="menu-link" 
-                            href="{{ route('portafolio') }}"><div>Portafolio</div></a>
+                            href={{ route('portafolio') }}><div>Portafolio</div></a>
                         </li>
                         <li class="menu-item"><a class="menu-link" href="#"><div>FAQs</div></a></li>
-                        <li class="menu-item"><a class="menu-link" href="#"><div>Contactanos</div></a></li>
+                        <li class="menu-item"><a class="menu-link" 
+                            href={{ route('contacto') }}><div>Contactanos</div></a></li>
                     </ul>
 
                 </nav><!-- #primary-menu end -->

@@ -28,6 +28,16 @@ class PageController extends Controller
      */
     public function contact()
     {
+        return view('contact');
+    }
+
+    /**
+     * Muestra la pagina de portafolios.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function portafolio()
+    {
         return view('portafolio');
     }
 
